@@ -1,0 +1,13 @@
+data:
+    load:
+        repository: /Volumes/Projects2023
+        events: ALL
+
+    save: 
+        filename: test.npy
+
+
+filter:
+    start: 24
+    end: 25
+    n_stations: 4
